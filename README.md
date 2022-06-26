@@ -7,6 +7,7 @@
 
 #### Note that it might take few minutes to run all the cells and get the results.
 
+### Please Download the Dataset https://benchmark.ini.rub.de/gtsdb_dataset.html and place the folder FullIJCNN2013 in the same repositoty as the notebook
 
 ### Programming language and Libraries
 All the code related to this assignement, the results and the ploted figures are in the jupyter notebook file.
