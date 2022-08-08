@@ -1,0 +1,9 @@
+train: ../Data/images/train/ 
+val:  ../Data/images/val
+test: ../Data/images/test/
+
+# number of classes
+nc: 4
+
+# class names
+names: ["danger","mandatory", "other","prohibatory"]
