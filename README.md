@@ -4,6 +4,9 @@
 
 #### Author Email: ybouzekraoui3@gatech.edu
 
+#### Demo:
+
+![Demo](./demo.gif)
 
 #### Note that it might take few minutes to run all the cells and get the results.
 
